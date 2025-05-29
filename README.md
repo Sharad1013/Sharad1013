@@ -1,34 +1,76 @@
 [![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://sharad1013.io)
 <h1 align="center">Hi 👋, I'm Sharad Sinha</h1>
-<h3 align="center">Crafting Intelligent Platforms: From Job Portals to the Metaverse</h3>
+<h3 align="center">Transforming Data into Decisions | Full-Stack Innovator</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharad1013&label=Profile%20views&color=0e75b6&style=flat" alt="sharad1013" /> </p>
 
+---
 
+### 👨‍💼 About Me
 
-- 🔭 I’m currently working on [AcademiaLink](https://github.com/Sharad1013/AcademiaLink)
+- 🔍 I specialize in **Data Analysis**, **Data Engineering**, and **Full Stack Development**.
+- 🔭 Currently working on a **Customer Behavior & Churn Analysis** project for a SaaS eCommerce automation platform.
+- 📊 Passionate about transforming complex datasets into actionable business insights.
+- 💻 Previously built platforms like **AcademiaLink**, showcasing my MERN development skills.
+- 🌱 Currently learning **Power BI** to enhance my Data Visualization capabilities.
+- 💬 Ask me about **Data Pipelines, ETL, Python (Pandas/Numpy), SQL, MongoDB, MERN Stack.**
+- 📫 Reach me at **sharadsinha8789@gmail.com**
+- ⚡ Fun fact: I can code faster than my WiFi can load — well, almost! 😅
 
-- 🌱 I’m currently learning **MERN to enhance my full-stack development skills.**
+---
 
-- 👨‍💻 All of my projects are available at [https://sinhasharad13.netlify.app](https://sinhasharad13.netlify.app)
+### 🌐 Portfolio & Projects
 
-- 💬 Ask me about **JavaScript, MongoDB, Express.js, React, Node.js, Java, SQL**
+- 🔗 Data Projects: [View Portfolio](https://sinhasharad13.netlify.app)
+- 💼 Full Stack Projects: [View Portfolio](https://sinhasharad13.netlify.app)
 
-- 📫 How to reach me **sharadsinha8789@gmail.com**
+---
 
-- ⚡ Fun fact **I can code **faster than my WiFi** can load—well, almost! 😅**
+### 📈 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
+#### 📊 Data Analysis & Engineering
+
 <p align="left">
-<a href="https://linkedin.com/in/sharad-sinha8105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad-sinha8105" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40" alt="NumPy"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+#### 🧩 Full Stack Development (MERN)
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/>
+  <img src="https://www.vectorlogo.zone/logos/reduxjs/reduxjs-icon.svg" width="40" height="40" alt="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharad1013&show_icons=true&locale=en&layout=compact" alt="sharad1013" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharad1013&show_icons=true&locale=en" alt="sharad1013" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharad1013&" alt="sharad1013" /></p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/sharad-sinha8105" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad-sinha8105" height="30" width="40" />
+</a>
+</p>
