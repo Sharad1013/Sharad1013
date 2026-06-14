@@ -23,8 +23,8 @@
 
 ### 🌐 Portfolio & Projects
 
+- 💼 Full Stack Projects: [View Portfolio](https://sharad-dev-portfolio.vercel.app/)
 - 🔗 Data Projects: [View Portfolio](https://sinhasharad13.netlify.app)
-- 💼 Full Stack Projects: [View Portfolio](https://sinhasharad13.netlify.app)
 
 ---
 
